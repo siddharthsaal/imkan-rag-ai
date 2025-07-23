@@ -1,0 +1,8 @@
+openai
+numpy
+scikit-learn
+uvicorn[standard]
+pymilvus
+transformers
+torch
+fastapi
